@@ -1,0 +1,25 @@
+body {
+  background-color: #f5f5dc;
+}
+
+h1 {
+  color: #5f9ea0
+}
+
+h2 {
+  color: #5f9ea0
+}
+h4 {
+  color: #5f9ea0
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 2px;
+  width: 2%;
+}
+img{
+  border-radius: 100%
+}
